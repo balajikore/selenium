@@ -20,6 +20,8 @@ public class FirstSimpleSelenium {
         String strname = ele.getText();
         System.out.println(strname);
        
+        //checking for git commiet
+        
       // List<WebElement> alllink = driver.findElements(By.tagName("a"));
        //System.out.println(alllink.size());
        //alllink.get(40).click();
